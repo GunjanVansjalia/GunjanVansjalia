@@ -15,7 +15,6 @@
   I'm a Software Engineer with over 13 years of experience, specializing in Frontend Development and VA/EPT Closure. My passion lies in creating efficient, scalable, and user-friendly web applications using cutting-edge technologies.
 </p>
 
-<h2>🛠️ Tech Stack</h2>
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -94,12 +93,17 @@
 <h2>💼 Professional Experience</h2>
 
 <ul>
-  <li><strong>Infopercept Consulting</strong> - Vendor (Aug 2023 - Present)</li>
-  <li><strong>Atcults</strong> - Vendor (Mar 2020 - Present)</li>
-  <li><strong>SBI Life Insurance Co. Ltd.</strong> - Information Technology Security Consultant (Sep 2023 - Present)</li>
-  <li><strong>Whizzminds Technologies Pvt Ltd</strong> - Software Developer (Jun 2019 - Dec 2020)</li>
-  <li><strong>Vagaro Inc</strong> - Software Engineer (Aug 2018 - May 2019)</li>
+  <li><strong>Infopercept Consulting</strong> - Vendor (Aug 2023 - Present, 1 yr 3 mos, Gujarat, India - Hybrid)</li>
+  <li><strong>Atcults</strong> - Vendor (Mar 2020 - Present, 4 yrs 8 mos, India - On-site)</li>
+  <li><strong>SBI Life Insurance Co. Ltd.</strong> - Information Technology Security Consultant (Sep 2023 - Present, 1 yr 2 mos, Navi Mumbai, Maharashtra, India - Hybrid)</li>
+  <li><strong>Whizzminds Technologies Pvt Ltd</strong> - Software Developer (Jun 2019 - Dec 2020, 1 yr 7 mos, India - On-site)</li>
+  <li><strong>Vagaro Inc</strong> - Software Engineer (Aug 2018 - May 2019, 10 mos, Ahmedabad, Gujarat, India)</li>
+  <li><strong>CR2 Technologies Ltd.</strong> - Software Developer (Sep 2017 - Jul 2018, 11 mos, Ahmedabad Area, India)</li>
+  <li><strong>Whizzminds Technologies Pvt Ltd</strong> - Software Developer (Dec 2015 - Aug 2017, 1 yr 9 mos, Ahmedabad Area, India)</li>
+  <li><strong>Robonet Infotech India</strong> - Jr. Software Developer (May 2015 - Nov 2015, 7 mos, Ahmedabad Area, India)</li>
+  <li><strong>Balaji Institute of Engineering and Technology</strong> - Assistant Professor (Mar 2012 - Mar 2015, 3 yrs 1 mo, Makhiyala, Junagadh)</li>
 </ul>
+
 
 <h2>🎓 Education</h2>
 
@@ -110,7 +114,7 @@
 <p>I'm always interested in collaborating on exciting projects or discussing new technologies. Feel free to reach out!</p>
 
 <p align="center">
-  <a href="mailto:">
+  <a href="mailto:gunjanvansjalia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://twitter.com/yourusername">
