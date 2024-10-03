@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Gunjan Vansjalia</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gunjanvansjalia">
+  <a href="https://www.linkedin.com/in/gunjan-vansjalia-441b4135">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/GunjanVansjalia">
@@ -17,16 +17,33 @@
 
 <h2>🛠️ Tech Stack</h2>
 
+<h2>🛠️ Tech Stack</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AJAX-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="AJAX">
+  <img src="https://img.shields.io/badge/XML-777BB4?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
+  <img src="https://img.shields.io/badge/Web_Services-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Web Services">
+  <img src="https://img.shields.io/badge/Responsive_Design-61DAFB?style=for-the-badge&logo=responsive-design&logoColor=white" alt="Responsive Design">
 </p>
 
 <h2>🏆 Certifications</h2>
@@ -93,7 +110,7 @@
 <p>I'm always interested in collaborating on exciting projects or discussing new technologies. Feel free to reach out!</p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://twitter.com/yourusername">
